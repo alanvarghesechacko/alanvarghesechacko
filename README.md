@@ -1,16 +1,23 @@
-## Hi there 👋
 
-<!--
-**alanvarghesechacko/alanvarghesechacko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Alan Varghese Chacko 👋
 
-Here are some ideas to get you started:
+🎓 BEng Software Engineering with Foundation Year student at Canterbury Christ Church University (CCCU).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Interested in software development and cloud engineering.
+
+🌱 Currently learning programming fundamentals, Git, and GitHub.
+
+🎯 My goals:
+- Build practical software projects.
+- Improve my programming and problem-solving skills.
+- Explore cloud computing and deployment.
+- Prepare for internships and placement opportunities.
+
+📂 This GitHub profile showcases my learning journey and projects.
+
+🔗 LinkedIn: www.linkedin.com/in/alan-varghese-chacko-a52554443.
+
+---
+
+*Learning, building, and improving one project at a time.*
+
